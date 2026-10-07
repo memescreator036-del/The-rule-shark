@@ -1,0 +1,340 @@
+{
+ "meals": [
+  {
+   "id": "mCheeseburger",
+   "n": "Cheeseburger",
+   "d": "Burger Plates",
+   "p": 11.5,
+   "c": "Burger Plates",
+   "e": "🍔",
+   "f": 0
+  },
+  {
+   "id": "mDoubleCheeseburger",
+   "n": "Double Cheeseburger",
+   "d": "Burger Plates",
+   "p": 15,
+   "c": "Burger Plates",
+   "e": "🍔",
+   "f": 0
+  },
+  {
+   "id": "mJumboCheeseburger",
+   "n": "Jumbo Cheeseburger",
+   "d": "Burger Plates",
+   "p": 13.5,
+   "c": "Burger Plates",
+   "e": "🍔",
+   "f": 1
+  },
+  {
+   "id": "mDoubleJumboCheeseburger",
+   "n": "Double Jumbo Cheeseburger",
+   "d": "Burger Plates",
+   "p": 19,
+   "c": "Burger Plates",
+   "e": "🍔",
+   "f": 0
+  },
+  {
+   "id": "m6pcWings",
+   "n": "6 pc Wings",
+   "d": "Wing Plates",
+   "p": 11,
+   "c": "Wing Plates",
+   "e": "🍗",
+   "f": 0
+  },
+  {
+   "id": "m8pcWings",
+   "n": "8 pc Wings",
+   "d": "Wing Plates",
+   "p": 13,
+   "c": "Wing Plates",
+   "e": "🍗",
+   "f": 1
+  },
+  {
+   "id": "m10pcWings",
+   "n": "10 pc Wings",
+   "d": "Wing Plates",
+   "p": 15,
+   "c": "Wing Plates",
+   "e": "🍗",
+   "f": 0
+  },
+  {
+   "id": "m12pcWings",
+   "n": "12 pc Wings",
+   "d": "Wing Plates",
+   "p": 17,
+   "c": "Wing Plates",
+   "e": "🍗",
+   "f": 0
+  },
+  {
+   "id": "mSub",
+   "n": "Sub",
+   "d": "Sandwiches & More",
+   "p": 9,
+   "c": "Sandwiches & More",
+   "e": "🥪",
+   "f": 0
+  },
+  {
+   "id": "mPhilly",
+   "n": "Philly",
+   "d": "Sandwiches & More",
+   "p": 12,
+   "c": "Sandwiches & More",
+   "e": "🥪",
+   "f": 1
+  },
+  {
+   "id": "mFishSandwich",
+   "n": "Fish Sandwich",
+   "d": "Sandwiches & More",
+   "p": 10,
+   "c": "Sandwiches & More",
+   "e": "🐟",
+   "f": 0
+  },
+  {
+   "id": "mFish",
+   "n": "Fish",
+   "d": "Sandwiches & More",
+   "p": 14,
+   "c": "Sandwiches & More",
+   "e": "🐟",
+   "f": 0
+  },
+  {
+   "id": "mTaco",
+   "n": "Taco",
+   "d": "Sandwiches & More",
+   "p": 12,
+   "c": "Sandwiches & More",
+   "e": "🌮",
+   "f": 0
+  },
+  {
+   "id": "mLoadedNachos",
+   "n": "Loaded Nachos",
+   "d": "Sandwiches & More",
+   "p": 12,
+   "c": "Sandwiches & More",
+   "e": "🧀",
+   "f": 1
+  },
+  {
+   "id": "mTrio",
+   "n": "Trio",
+   "d": "Sandwiches & More",
+   "p": 14,
+   "c": "Sandwiches & More",
+   "e": "🥪",
+   "f": 0
+  },
+  {
+   "id": "mLoadedTrio",
+   "n": "Loaded Trio",
+   "d": "Sandwiches & More",
+   "p": 18,
+   "c": "Sandwiches & More",
+   "e": "🥪",
+   "f": 1
+  },
+  {
+   "id": "mSMChefSalad",
+   "n": "SM Chef Salad",
+   "d": "Salads",
+   "p": 9,
+   "c": "Salads",
+   "e": "🥗",
+   "f": 0
+  },
+  {
+   "id": "mLGChefSalad",
+   "n": "LG Chef Salad",
+   "d": "Salads",
+   "p": 13,
+   "c": "Salads",
+   "e": "🥗",
+   "f": 0
+  },
+  {
+   "id": "mSMGardenSalad",
+   "n": "SM Garden Salad",
+   "d": "Salads",
+   "p": 7,
+   "c": "Salads",
+   "e": "🥗",
+   "f": 0
+  },
+  {
+   "id": "mLGGardenSalad",
+   "n": "LG Garden Salad",
+   "d": "Salads",
+   "p": 10,
+   "c": "Salads",
+   "e": "🥗",
+   "f": 0
+  },
+  {
+   "id": "mSMLoadedChilliFries",
+   "n": "SM Loaded/Chilli Fries",
+   "d": "Extras",
+   "p": 6,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 0
+  },
+  {
+   "id": "mLGLoadedChilliFries",
+   "n": "LG Loaded/Chilli Fries",
+   "d": "Extras",
+   "p": 10,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 1
+  },
+  {
+   "id": "mSMLoadedChilliTots",
+   "n": "SM Loaded/Chilli Tots",
+   "d": "Extras",
+   "p": 7,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 0
+  },
+  {
+   "id": "mLGLoadedChilliTots",
+   "n": "LG Loaded/Chilli Tots",
+   "d": "Extras",
+   "p": 11,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 0
+  },
+  {
+   "id": "mPhillyFries",
+   "n": "Philly Fries",
+   "d": "Extras",
+   "p": 10,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 0
+  },
+  {
+   "id": "mFries",
+   "n": "Fries",
+   "d": "Extras",
+   "p": 3,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 0
+  },
+  {
+   "id": "mBacon",
+   "n": "Bacon",
+   "d": "Extras",
+   "p": 1,
+   "c": "Extras",
+   "e": "🍟",
+   "f": 0
+  },
+  {
+   "id": "mKids3pcWing",
+   "n": "Kids 3 pc Wing",
+   "d": "Kids Combos",
+   "p": 5,
+   "c": "Kids Combos",
+   "e": "🧒",
+   "f": 0
+  },
+  {
+   "id": "mKidsCheeseburger",
+   "n": "Kids Cheeseburger",
+   "d": "Kids Combos",
+   "p": 5,
+   "c": "Kids Combos",
+   "e": "🧒",
+   "f": 0
+  },
+  {
+   "id": "mKidsFish",
+   "n": "Kids Fish",
+   "d": "Kids Combos",
+   "p": 5,
+   "c": "Kids Combos",
+   "e": "🐟",
+   "f": 0
+  },
+  {
+   "id": "mKidsSub",
+   "n": "Kids Sub",
+   "d": "Kids Combos",
+   "p": 5,
+   "c": "Kids Combos",
+   "e": "🧒",
+   "f": 0
+  }
+ ],
+ "cfg": {
+  "name": "TRS Food",
+  "tag": "Good Food. Great Mood.",
+  "sub": "Burgers, wings, Philly and loaded fries, cooked fresh in Goodman, Mississippi.",
+  "phone": "(662) 582-7582",
+  "tel": "+16625827582",
+  "wa": "16625827582",
+  "addr": "6773 Hwy 51, Goodman, MS 39079",
+  "fo": 30,
+  "pc": "SAVE10",
+  "pp": 10,
+  "z": {
+   "Pick up": 0,
+   "Goodman": 3,
+   "Nearby towns": 5
+  },
+  "hr": [
+   null,
+   [
+    "10:30",
+    "19:00"
+   ],
+   [
+    "10:30",
+    "19:00"
+   ],
+   null,
+   [
+    "10:30",
+    "19:00"
+   ],
+   [
+    "10:30",
+    "21:00"
+   ],
+   [
+    "10:30",
+    "17:00"
+   ]
+  ]
+ },
+ "offers": [
+  {
+   "t": "Kids combos, $5",
+   "d": "3 pc wing, cheeseburger, fish or sub."
+  },
+  {
+   "t": "Promo code SAVE10",
+   "d": "10% off your order."
+  },
+  {
+   "t": "Free delivery",
+   "d": "On orders over $30."
+  }
+ ],
+ "news": [],
+ "reviews": []
+}
